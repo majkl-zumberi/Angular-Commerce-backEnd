@@ -56,8 +56,8 @@ module.exports = router;
         host: 'smtp.mailtrap.io',
         port: 2525,
         auth: {
-            user: '3118e74ed73ca7',
-            pass: '6b03edd9f5cd4a'
+            user: 'mailtrapUserHere',
+            pass: 'mailtrapPassHere'
         }
     });
     let custom='';
